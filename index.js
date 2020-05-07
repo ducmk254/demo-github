@@ -6,4 +6,4 @@ let mickey = new Mouse('Mickey');
 let tom = new Cat();
 
 tom.eat(mickey);
-conssole.log(tom);
+console.log(tom);
